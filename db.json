@@ -1,0 +1,76 @@
+{
+  "DPS2": {
+    "fd788369-9feb-457c-8ed2-4c8d0b438964": {
+        "Group": "Video",
+        "Label": "ad222",
+        "ID": "fd788369-9feb-457c-8ed2-4c8d0b438964",
+        "Sources": "",
+        "Review": "",
+        "Outputs": "",
+        "headline": "Headline222",
+        "copy": "copy222",
+        "cta": "cta222",
+        "bgimage": "puppyImage.jpg"
+    },
+    "3c539289-daeb-4a6a-a197-8f5c210bfec6": {
+        "Group": "HTML",
+        "Label": "ad333",
+        "ID": "3c539289-daeb-4a6a-a197-8f5c210bfec6",
+        "Sources": "",
+        "Review": "",
+        "Outputs": "",
+        "headline": "Headline333",
+        "copy": "copy333",
+        "cta": "cta333",
+        "bgimage": "doggy.jpg"
+    },
+    "83b2b952-690d-43a7-aa92-6f344de4a1c0": {
+        "Group": "Static",
+        "Label": "ad444",
+        "ID": "83b2b952-690d-43a7-aa92-6f344de4a1c0",
+        "Sources": "",
+        "Review": "",
+        "Outputs": "",
+        "headline": "Headline444",
+        "copy": "copy444",
+        "cta": "cta444",
+        "bgimage": "bigdog.jpg"
+    },
+    "10c68e06-df3a-4998-a50f-b2500148de7b": {
+        "Group": "Social",
+        "Label": "ad555",
+        "ID": "10c68e06-df3a-4998-a50f-b2500148de7b",
+        "Sources": "",
+        "Review": "",
+        "Outputs": "",
+        "headline": "Headline555",
+        "copy": "copy555",
+        "cta": "cta555",
+        "bgimage": "puppyImage.jpg"
+    },
+    "65a52ee7-d8d7-420c-9eef-a8d31cf31772": {
+        "Group": "Video",
+        "Label": "ad6666",
+        "ID": "65a52ee7-d8d7-420c-9eef-a8d31cf31772",
+        "Sources": "",
+        "Review": "",
+        "Outputs": "",
+        "headline": "Headline6666",
+        "copy": "copy6666",
+        "cta": "cta6666",
+        "bgimage": "doggy.jpg"
+    },
+    "2347ef6b-76ae-4add-9e93-cb64a57e3fd7": {
+        "Group": "HTML",
+        "Label": "ad777",
+        "ID": "2347ef6b-76ae-4add-9e93-cb64a57e3fd7",
+        "Sources": "",
+        "Review": "",
+        "Outputs": "",
+        "headline": "Headline7",
+        "copy": "copy777",
+        "cta": "cta777",
+        "bgimage": "bigdog.jpg"
+    }
+  }
+}
