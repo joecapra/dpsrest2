@@ -10,7 +10,7 @@
         "headline": "Headline222",
         "copy": "copy222---steve",
         "cta": "cta222--STEVE",
-        "bgimage": "puppyImage.jpg"
+        "bgImage": "puppyImage.jpg"
     },
     "3c539289-daeb-4a6a-a197-8f5c210bfec6": {
         "Group": "HTML",
@@ -22,7 +22,7 @@
         "headline": "Headline333",
         "copy": "copy333",
         "cta": "cta333",
-        "bgimage": "doggy.jpg"
+        "bgImage": "doggy.jpg"
     },
     "83b2b952-690d-43a7-aa92-6f344de4a1c0": {
         "Group": "Static",
@@ -34,7 +34,7 @@
         "headline": "Headline444_yap",
         "copy": "copy444",
         "cta": "cta444_qa",
-        "bgimage": "bigdog.jpg"
+        "bgImage": "bigdog.jpg"
     },
     "10c68e06-df3a-4998-a50f-b2500148de7b": {
         "Group": "Social",
@@ -46,7 +46,7 @@
         "headline": "Headline555_yap",
         "copy": "copy555",
         "cta": "cta555_qa",
-        "bgimage": "puppyImage.jpg"
+        "bgImage": "puppyImage.jpg"
     },
     "65a52ee7-d8d7-420c-9eef-a8d31cf31772": {
         "Group": "Video",
@@ -58,7 +58,7 @@
         "headline": "Headline6666",
         "copy": "copy6666",
         "cta": "cta6666",
-        "bgimage": "doggy.jpg"
+        "bgImage": "doggy.jpg"
     },
     "2347ef6b-76ae-4add-9e93-cb64a57e3fd7": {
         "Group": "HTML",
@@ -70,7 +70,7 @@
         "headline": "Headline7",
         "copy": "copy777",
         "cta": "cta777",
-        "bgimage": "bigdog.jpg"
+        "bgImage": "bigdog.jpg"
     }
   }
 }
